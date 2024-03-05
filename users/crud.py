@@ -7,3 +7,4 @@ def create_user(user_in: CreateUser):
         "success": True,
         "user": user
     }
+#
